@@ -1,5 +1,7 @@
 ## Soneium Domains Docs
 
+### [Soneium Domains Docs Website](https://docs.soneium.domains)
+
 Soneium Domains is an ENS-based service that allows you to manage human-readable names on the Soneium Blockchain.
 
 - [Smart Contracts](https://github.com/soneium-domains/soneium-domains-smart-contract)
