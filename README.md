@@ -1,4 +1,13 @@
-## Hi there 👋
+## Soneium Domains
+Soneium Domains is an ENS-based service that allows you to manage human-readable names on the Soneium Blockchain.
+
+- [Smart Contracts](https://github.com/soneium-domains/soneium-domains-smart-contract)
+- [JS Docs](https://github.com/soneium-domains/soneium-domains-js/tree/main/docs#soneium-domainsjs-documentation)
+- [Metadata Service](https://github.com/soneium-domains/soneium-domains-metadata-service)
+- [Subgraph](https://github.com/soneium-domains/soneium-domains-subgraph)
+- [Manager App & Landing](https://github.com/soneium-domains/soneium-domains-app)
+
+Soneium Domains is fully compatible with the ENS (Ethereum Name Service) architecture.
 
 <!--
 **soneium-domains/soneium-domains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
